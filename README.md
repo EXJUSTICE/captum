@@ -396,7 +396,7 @@ jupyter nbextension install --py --symlink --sys-prefix captum.insights.widget
 jupyter nbextension enable captum.insights.widget --py --sys-prefix
 ```
 
-To build the widget from a checkout in a conda environment run
+To build the widget from a checkout in a conda environment run the following
 
 ```
 conda install -c conda-forge yarn
